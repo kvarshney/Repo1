@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 8471-B1A1
+
+ Directory of C:\Kapil\MyProject
+
+01/24/2019  11:45 PM    <DIR>          .
+01/24/2019  11:45 PM    <DIR>          ..
+01/24/2019  11:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  184,829,296,640 bytes free
